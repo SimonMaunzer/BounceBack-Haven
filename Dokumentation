@@ -1,0 +1,70 @@
+Bounceback – Dokumentation
+15. Nov. 2026 · @Simon
+Überblick
+Bounceback ist ein kleiner 2D-Plattformer, gemacht mit Godot 4.7. Du spielst einen Pilz, der durch ein Level hüpft und die Zielfahne erreichen muss. Das Spiel ist für die Hack Club Haven Challenge in Dortmund entstanden.
+Es ist ein Seitenansicht-Plattformer: Du steuerst den Pilz nach links und rechts, springst über das Level und kommst so zur Zielfahne.
+Auf einen Blick
+Merkmal
+Beschreibung
+Titel
+Bounceback
+Genre
+2D-Plattformer
+Spielfigur
+ein Pilz
+Engine
+Godot 4.7
+Eingabe
+Tastatur
+Ziel
+die Zielfahne erreichen
+Anlass
+Hack Club Haven Challenge, Dortmund
+Spielbar auf
+itch.io
+Spielanleitung
+Das Ziel ist die Zielfahne. Gespielt wird mit der Tastatur.
+Aktion
+Taste
+Laufen
+A / D oder Pfeil links / rechts
+Springen
+Leertaste, W oder Pfeil hoch
+Halte die Sprungtaste gedrückt, um höher zu springen. Kurzes Antippen ergibt einen kleinen Sprung.
+Ablauf
+1.  Starte das Spiel.
+2.  Laufe mit A / D oder den Pfeiltasten nach links und rechts.
+3.  Springe mit der Leertaste, W oder Pfeil hoch, um durch das Level zu kommen.
+4.  Erreiche die Zielfahne.
+Sprungverhalten
+Die Sprunghöhe hängt davon ab, wie lange du die Sprungtaste hältst.
+Eingabe
+Ergebnis
+Sprungtaste kurz antippen
+kleiner Sprung
+Sprungtaste gedrückt halten
+höherer Sprung
+Technik
+Das Projekt nutzt Godot 4.7. So öffnest du es:
+1.  Godot 4.7 von godotengine.org installieren.
+2.  In Godot „Importieren“ wählen und die Datei project.godot öffnen.
+3.  Mit F5 starten. Die Hauptszene ist main.tscn.
+Wichtige Dateien
+Datei
+Zweck
+project.godot
+Projektdatei. Sie wird in Godot importiert, um das Projekt zu öffnen.
+main.tscn
+Hauptszene. Sie wird beim Start mit F5 geladen.
+Schritt für Schritt in Godot
+1.  Öffne Godot 4.7. Es erscheint die Projektliste.
+2.  Klicke auf „Importieren“.
+3.  Wähle die Datei project.godot aus dem Projektordner aus und bestätige.
+4.  Öffne das Projekt aus der Liste.
+5.  Drücke F5, um das Spiel zu starten.
+Verwende Godot in Version 4.7, damit sich das Projekt ohne Anpassungen öffnen lässt.
+Veröffentlichung
+Bounceback kann auf itch.io gespielt werden. Der Link fehlt noch: bitte hier eintragen.
+Credits
+• Mark und Alan: Hilfe und Begleitung während des Hackathons sowie Organisation.
+• Pilz-Grafiken: „Mushroom without VFX“-Spritesheet credits and das team von Get out

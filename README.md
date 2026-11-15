@@ -4,6 +4,7 @@ Game for Hackclub Haven Gamejam
 
 ##
 Link to play in your browser:
+https://simon-maunzer.itch.io/bounce-back
 
 # About BounceBack
 BounceBack is the game i created for the Hackclub Haven GameJam in Dortmund

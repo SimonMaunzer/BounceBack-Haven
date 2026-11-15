@@ -7,7 +7,8 @@ Entstanden für die Hack Club Haven Challenge in Dortmund.
 
 Spielen
 
-Das Spiel kann direkt auf itch.io gespielt werden: <!-- Link einfügen -->
+Das Spiel kann direkt auf itch.io gespielt werden: 
+https://simon-maunzer.itch.io/bounce-back
 
 Steuerung
 Aktion	Taste
